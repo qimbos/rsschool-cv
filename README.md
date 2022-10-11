@@ -1,2 +1,3 @@
 # rsschool-cv
-CV
+*MY CV* 
+https://qimbos.github.io/rsschool-cv/cv
